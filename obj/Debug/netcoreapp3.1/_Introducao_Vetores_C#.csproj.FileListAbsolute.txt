@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\bin\Debug\netcoreapp3.1\_Introducao_Vetores_C#.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\bin\Debug\netcoreapp3.1\_Introducao_Vetores_C#.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\bin\Debug\netcoreapp3.1\_Introducao_Vetores_C#.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\bin\Debug\netcoreapp3.1\_Introducao_Vetores_C#.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\bin\Debug\netcoreapp3.1\_Introducao_Vetores_C#.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\bin\Debug\netcoreapp3.1\_Introducao_Vetores_C#.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Vetores_C#\obj\Debug\netcoreapp3.1\_Introducao_Vetores_C#.genruntimeconfig.cache
